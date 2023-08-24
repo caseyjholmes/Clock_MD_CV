@@ -6,6 +6,8 @@ Just print a PCB, panel and assmeble acording to BOM. Then, program with arduino
 check back soon for a note here when the module has been tested and completed/finalized. 7-17-23
 
 This module has been tested and completed. The updated firmware has also been posted. Youtube videos to be posted soon as well as Modular Grid data. 8-23-23
+Update: Here's a youtube video showing the module purpose and operation. https://youtu.be/xJtNhXA8xrQ?si=LwXfrnCbjALYdgvX
+Modular Grid link coming soon. 
 Thanks Hagiwo! I hope my additions are pleasing. 
 
 A BOM update has been added to reflect use of LM40405.0 reference shunt instead of lm40412. This change was a necessary correction due to using renamed component packages in eagle. 8-24-23
