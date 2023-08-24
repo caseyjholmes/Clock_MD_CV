@@ -8,4 +8,4 @@ check back soon for a note here when the module has been tested and completed/fi
 This module has been tested and completed. The updated firmware has also been posted. Youtube videos to be posted soon as well as Modular Grid data. 8-23-23
 Thanks Hagiwo! I hope my additions are pleasing. 
 
-A BOM update has been added to reflect use of LM40405.0 reference shunt instead of lm40412. This change was a necessary correction due to renamed packages used in eagle. 8-24-23
+A BOM update has been added to reflect use of LM40405.0 reference shunt instead of lm40412. This change was a necessary correction due to using renamed component packages in eagle. 8-24-23
