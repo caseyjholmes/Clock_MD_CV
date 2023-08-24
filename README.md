@@ -1,5 +1,5 @@
 # Clock_MD_CV
-Modified 4HP 2 channel CV controlled clock multiplier and divider originally by HAGIWO with PSI power and CV input modifications drawn onto PCB by:
+Modified 4HP 2 channel CV controlled clock multiplier and divider Eurorack Module originally by HAGIWO with PSI power and CV input modifications drawn onto PCB by:
 HOLMES MODULAR 7-17-23
 
 Just print a PCB, panel and assmeble acording to BOM. Then, program with arduino IDE or atmel studio. 
