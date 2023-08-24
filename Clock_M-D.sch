@@ -20790,7 +20790,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="470"/>
 <part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="FRAME_A_L" device=""/>
-<part name="IC2" library="texas" library_urn="urn:adsk.eagle:library:387" deviceset="LM4041" device="DBZ" package3d_urn="urn:adsk.eagle:package:7566925/3" technology="A12" value="LM4040....."/>
+<part name="IC2" library="texas" library_urn="urn:adsk.eagle:library:387" deviceset="LM4041" device="DBZ" package3d_urn="urn:adsk.eagle:package:7566925/3" technology="A12" value="LM40405.0"/>
 <part name="SUPPLY2" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="SUPPLY3" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="10k"/>
