@@ -12,3 +12,7 @@ Thanks Hagiwo! I hope my additions are pleasing.
 
 A BOM update has been added to reflect use of LM40405.0 reference shunt instead of lm40412. This change was a necessary correction due to using renamed component packages in eagle. 8-24-23
 This change was also updated in the bottom bom CSV files and schematic.
+
+View this module on Modular Grid
+https://www.modulargrid.net/e/other-unknown-holmes-modular-clock-md-cv
+
